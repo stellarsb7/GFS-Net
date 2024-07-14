@@ -1,9 +1,9 @@
 # GFS-Net
 This repository contains the code and results of the GFS-Net Model, a metaheuristic optimization based Deep Feature Selection for Oral Cancer Classification.
 
-#### [Saptarshi Bandyopadhyay](https://www.linkedin.com/in/spiralsb3/)\*, [Sugata Laha](https://www.linkedin.com/in/sugata-laha-0830871b1/)\*, [Akash Halder](https://www.linkedin.com/in/akash-halder-1b315b1b7/)\* and [Ram Sarkar](https://jadavpuruniversity.in/faculty-profile/ram-sarkar/)\*
+#### [Saptarshi Bandyopadhyay](https://www.linkedin.com/in/spiralsb3/)\*, [Sugata Laha](https://www.linkedin.com/in/sugata-laha-0830871b1/)\*, [Akash Halder](https://www.linkedin.com/in/akash-halder-1b315b1b7/)\*, [Friedhelm Schwenker](https://scholar.google.de/citations?user=ie0eT6IAAAAJ&hl=en) and [Ram Sarkar](https://jadavpuruniversity.in/faculty-profile/ram-sarkar/)\*
 
-Submitted to ANNPR, 2024
+[Published in ANNPR, 2024](https://www.concordia.ca/research/cenparmi/news-events/conferences/ANNPR2024.html)
 
 ## Datasets
 #### [Histopathologic oral cancer identification dataset.](https://www.kaggle.com/datasets/ashenafifasilkebede/dataset)
